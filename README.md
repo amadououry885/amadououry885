@@ -30,8 +30,10 @@
 ---
 
 ## 📫 Let's Connect!
-- 🔗 [LinkedIn](github.com/amadououry886 )
-- 💬 Twitter: [@yourhandle](linkedin.com/in/amadou-oury-diallo-735999279)
+## 📫 Let's Connect!
+- 💻 [GitHub](https://github.com/amadououry886)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amadou-oury-diallo-735999279)
+- 🐦 [X (Twitter)](https://x.com/dialloa20297393?s=11&t=oIEEgvAWAUIBphMp6_rBBw)
 - 📧 amadouodiallo77@gmail.com
 
 ---
